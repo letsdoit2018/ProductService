@@ -1,0 +1,60 @@
+{
+    "partner_varaint_id": "P123VTY",
+    "partner_business_id": "P123TX",
+    "items": [
+        {
+            "category": "TIN01",
+            "description": "entree",
+            "variants": [
+                {
+                    "product_master_id": "",
+                    "product_sku_id": "P123TXDESSMALL",
+                    "product_image": "http://tindi.com/ft5678",
+                    "product_name": "French Fries",
+                    "price": "P123TX",
+                    "product_description": "Made to order, and fried golden",
+                    "promotions": [
+                        {
+                            "prom_type": "FR",
+                            "active": true,
+                            "product_sku_id": "P123SMALLWATER",
+                            "price": "P123TX678",
+                            "prom_description": "One small water bottle Free"
+                        }
+                    ]
+                },
+                {
+                    "product_master_id": "",
+                    "product_sku_id": "FT5678jk679",
+                    "product_image": "http://tindi.com/ft5679",
+                    "product_name": "Tater Tots",
+                    "price": "P123TX677",
+                    "product_description": "Crispy Tater Tots",
+                    "promotions": [
+                        {
+                            "prom_type": "DI",
+                            "product_sku_id": "P129CRSMALL",
+                            "active": false,
+                            "price": "P123TX679",
+                            "prom_description": "One small crispy tater tots at discounted price "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "TIN03",
+            "description": "dessert",
+            "variants": [
+                {
+                    "product_master_id": "",
+                    "product_sku_id": "FT567802gb678",
+                    "product_image": "http://tindi.com/ft5679",
+                    "product_name": "Cakes",
+                    "price": 8,
+                    "product_description": "Warm strudel cake topped iwth whipped cream and caramel sauc"
+                }
+            ]
+        }
+    ]
+}

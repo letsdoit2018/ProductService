@@ -1,0 +1,49 @@
+{
+    "partner_variant": {
+        "variant_id": "P123VTY",
+        "partner_business_id": "P123TX",
+        "product_title": "",
+        "_tags": [
+            {
+                "key": "",
+                "value": ""
+            }
+        ],
+        "product_description": "",
+        "legal_description": "",
+        "country_of_origin": "",
+        "bullets": [
+            "",
+            ""
+        ],
+        "variant_sku": [
+            {
+                "product_sku_id": "P123TXDESSMALL",
+                "attribute_category": "desserts",
+                "attribute_type": "serving_size",
+                "active": true,
+                "attribute_value": "small",
+                "price_id": "P123TXP1",
+                "attribute_quantity": 50,
+                "attribute_unit_measure": "oz",
+                "attribute_description": "small portion of custard",
+                "main_image_url": ""
+            },
+            {
+                "sku_id": "P123TXDESLARGE",
+                "attribute_category": "123TXDESLARGE",
+                "attribute_type": "serving_size",
+                "attribute_value": "large",
+                "attribute_quantity": 8,
+                "attribute_unit_measure": "oz",
+                "attribute_description": "large portion of custard"
+            }
+        ]
+    },
+    "auditInfo": {
+        "createBy": "string",
+        "createDate": "DateTime",
+        "updateBy": "string",
+        "updateDate": "DateTime"
+    }
+}

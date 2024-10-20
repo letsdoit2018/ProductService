@@ -1,0 +1,26 @@
+{
+    "platform_product_supplier_id": "TIN00FT",
+    "platform_product_descriprtion": "Product type to cater to FoodTruck as suppliers",
+    "product_categories": [
+        {
+            "product_id": "TIN001D",
+            "product_description": "Dessert",
+            "product_category": ""
+        },
+        {
+            "product_id": "TIN001E",
+            "product_description": "Entree",
+            "product_category": ""
+        },
+        {
+            "product_id": "TIN001B",
+            "product_description": "Burger",
+            "product_category": ""
+        },
+        {
+            "product_id": "TIN001F",
+            "product_description": "General Fast  foo dan dcan inlcude Burger etc",
+            "product_category": ""
+        }
+    ]
+}
