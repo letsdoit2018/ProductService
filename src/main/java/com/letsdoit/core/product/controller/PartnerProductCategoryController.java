@@ -1,13 +1,7 @@
 package com.letsdoit.core.product.controller;
 
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.DeleteMapping;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
@@ -16,6 +10,7 @@ import com.letsdoit.core.product.service.PartnerProductCategoryService;
 import com.letsdoit.core.product.domain.PartnerProductCategory;
 
 @RestController
+@RequestMapping("productcategory")
 public class PartnerProductCategoryController {
     @Autowired
     PartnerProductCategoryService partnerProductCategoryService;
