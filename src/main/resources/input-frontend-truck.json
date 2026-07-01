@@ -1,0 +1,10 @@
+{
+  "id": "TRUCK-001",
+  "columns": {
+    "truck": "TXA 001",
+    "location": "Hyderabad"
+  },
+  "actions": {
+    "canDelete": true
+  }
+}

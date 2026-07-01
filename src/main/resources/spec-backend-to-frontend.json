@@ -1,0 +1,20 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "id": "id",
+      "displayName": "columns.truck",
+      "baseLocation": {
+        "city": "columns.location"
+      }
+    }
+  },
+  {
+    "operation": "default",
+    "spec": {
+      "actions": {
+        "canDelete": true
+      }
+    }
+  }
+]

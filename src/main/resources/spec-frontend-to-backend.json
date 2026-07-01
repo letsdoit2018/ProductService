@@ -1,0 +1,12 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "id": "id",
+      "columns": {
+        "truck": "displayName",
+        "location": "baseLocation.city"
+      }
+    }
+  }
+]
